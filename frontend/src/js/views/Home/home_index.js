@@ -11,7 +11,7 @@ class Home extends React.Component {
         <Row>
           <Col xs={12}>
             <div className='image-container'>
-              <img src='img/rhino.png' />
+              <img src='img/logo.png' />
             </div>
             <p>Your app goes here...</p>
             <a href='/login-with-twitter'>login with twitter</a>
